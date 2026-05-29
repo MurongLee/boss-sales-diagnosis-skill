@@ -26,6 +26,12 @@ Use plain Chinese with a reflective edge:
 
 Prefer short and medium sentences. A good paragraph often has 2-4 sentences.
 
+Avoid over-designed contrast sentences. They may sound sharp but feel heavy. For example:
+- Heavy: "你给了他一份产品说明，他拿到的是工作；如果你给他一页风险对比，他拿到的是工具。"
+- Lighter: "方案发过去以后，他还得自己想怎么跟内部解释。你要补的不是更多产品细节，而是一页让他看完知道怎么往下走的判断。"
+- Heavy: "联系人没法把你向上解释清楚。"
+- Lighter: "联系人也许不是不认可你，而是不知道怎么把这件事讲给内部听。"
+
 ## Sales Judgment Style
 
 Frame sales as:
@@ -73,9 +79,9 @@ A diagnosis should feel like:
 ```text
 我的判断：这单现在不是价格谈判，而是价值没有被客户内部消化。
 
-客户说贵，当然可能是真的贵。但更常见的情况是，联系人不知道怎么跟老板解释为什么选你。你发了方案，却没有给他一份可以向上转述的判断。
+客户说贵，当然可能是真的贵。但更常见的情况是，联系人看完方案以后，还不知道怎么把这件事讲给内部听。你要补的不是更多产品细节，而是一页让他看完知道怎么往下走的判断。
 
-下一步不要追问"方案看了吗"。只做一次修复：补一页价值/风险对比。没反应，就降级维护。
+下一步不要追问"方案看了吗"。只做一次修复：补一页很短的判断。没反应，就降级维护。
 ```
 
 ## What To Remove
