@@ -1,0 +1,4 @@
+interface:
+  display_name: "老板销售诊断"
+  short_description: "以老板视角诊断 B2B 销售卡点，输出局势判断、真实阻碍和下一步动作。"
+  default_prompt: "Use $boss-sales-diagnosis to diagnose this B2B sales stuck point: 客户说价格太高，方案发过去后一周没有回复。"
