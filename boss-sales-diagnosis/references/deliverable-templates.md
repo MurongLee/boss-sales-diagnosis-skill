@@ -53,6 +53,45 @@ Use after one week of silence, weak reply, or vague "too expensive".
 
 Intent: Restore value conversation without begging for a reply.
 
+## Department Head To Boss Note
+
+Use when the contact can choose the vendor, but payment or final approval requires the owner/boss.
+
+Keep this shorter and more practical than a generic value/risk note.
+
+```markdown
+**给老板看的判断：这次不只是在比价格**
+
+**便宜方案能省什么**
+- 前期采购成本会低一些。
+
+**后面可能多出什么**
+- 如果实施不顺，返工、协调和时间成本会增加。
+- 如果后续服务跟不上，部门要花更多精力补救。
+- 一旦结果不好，内部还要解释当初为什么只按价格选。
+
+**我们贵出的部分主要对应什么**
+- 实施路径更清楚。
+- 服务和责任边界更明确。
+- 出问题时，有人愿意一起把事情处理完。
+
+**建议**
+如果只看采购价，可以选低价。  
+如果这件事更看重稳定做成、少返工、少扯皮，建议把责任边界和后续服务放进比较里。
+```
+
+Customer-facing lead-in:
+
+```text
+[称呼]，我又把上次方案想了一下。
+
+如果这件事还要往老板那边报，我建议别只报价格。价格当然重要，但后面还有实施、服务和责任边界。
+
+我想补一页很短的说明，方便你内部看。不重复方案，只把便宜方案省在哪里、可能多出什么，我们这边多承担什么讲清楚。
+
+你看我发你参考一下？如果这部分价值你们确实不需要，我也好及时调整。
+```
+
 ## Fifteen-Minute Alignment Agenda
 
 Use when the next right step is a short call, not another long proposal.

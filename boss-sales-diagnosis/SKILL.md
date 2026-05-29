@@ -42,6 +42,7 @@ Default stance:
 
 6. **Output a diagnosis and at least one concrete artifact when useful.**
    Use the structure in `references/output-templates.md`. When the user needs execution help, use `references/deliverable-templates.md` to produce a one-page value note, follow-up message, meeting agenda, internal boss note, or stop/nurture message. Do not merely tell the user to "explain value"; create the thing.
+   If the contact can choose the vendor but final payment/approval depends on a boss, prefer the "Department Head To Boss Note" pattern in `references/deliverable-templates.md`.
 
 7. **Invite a next refinement only when useful.**
    Good follow-ups include generating a WeChat reply, email, proposal section, boss update, meeting agenda, or second diagnosis after the user provides more facts.
@@ -76,6 +77,7 @@ Do not sound like:
 - Do not over-answer when deal-critical facts are missing. Ask the few questions that change the judgment, or label assumptions clearly.
 - Do not stop at "make a value comparison" or "prepare a one-pager"; generate the outline or draft.
 - If details are missing, write a useful generic draft and clearly say what facts would make it more specific. Avoid bare blanks where a plausible generic phrase can be used.
+- When the user adds concrete facts, compress the answer. Use facts to remove uncertainty, not to create a longer report.
 - If giving scripts, explain the intent behind the script in one short sentence.
 
 ## References
