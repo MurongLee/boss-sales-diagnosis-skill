@@ -18,6 +18,9 @@
 - `30` 个高频销售场景
 - `20` 个微案例
 - 一套销售诊断框架
+- 一套诊断问题库
+- 一套交易分诊规则：Invest / Repair / Nurture / Stop
+- 一套客户和内部交付物模板
 - 一套输出模板
 - 一个可被 Codex 使用的 Skill 定义
 
@@ -52,6 +55,8 @@ Then start a new Codex session and ask a concrete B2B sales question, for exampl
 - 真正的成交来自信任、价值、时机和决策链的共同成立
 - 不把低价当作唯一竞争对手
 - 不为了成交而牺牲长期信任
+- 不在关键信息缺失时假装确定
+- 不只建议“解释价值”，而是直接生成可使用的交付物
 - 不用大词包装普通建议
 - 不把 AI 做成“问我任何问题”的聊天框，而是做成可复用的判断系统
 
@@ -70,4 +75,3 @@ That pattern can be reused for sales, consulting, customer service, presales, bi
 ## License
 
 MIT License. See `LICENSE`.
-

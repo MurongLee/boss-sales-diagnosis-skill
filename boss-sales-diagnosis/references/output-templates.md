@@ -5,6 +5,14 @@ Use Chinese by default when the user writes Chinese. Keep reports concise unless
 ## Battle Diagnosis Report
 
 ```markdown
+**先说结论**
+[一句话判断：这单最可能卡在哪里，以及建议 Invest / Repair / Nurture / Stop。]
+
+**我先基于这些假设判断**
+- [假设 1：例如你接触的是联系人，不是最终决策人]
+- [假设 2：例如方案发出前没有约定下一步]
+- [如果这些假设不成立，指出判断会如何改变]
+
 **当前局势**
 [用 2-4 句话判断这单现在处于什么状态。不要复述太多背景。]
 
@@ -28,11 +36,11 @@ Use Chinese by default when the user writes Chinese. Keep reports concise unless
 2. [具体动作]
 3. [具体动作]
 
-**可直接使用的话**
-[给一段微信/邮件/电话开场。不要太油腻，不要像话术课。]
+**建议交付物**
+[直接生成一页纸价值对比、微信、邮件、会议议程、内部汇报或停止/养护消息中的至少一种。不要只说“去做一个”。]
 
 **是否继续投入**
-[Invest / Repair / Nurture / Stop，并用一句话解释。]
+[Invest / Repair / Nurture / Stop，并用一句话解释。必要时给 0-12 分的机会质量评分。]
 ```
 
 ## Short Diagnosis
@@ -41,6 +49,8 @@ Use this when the user asks a quick question.
 
 ```markdown
 我的判断：[一句话定性]
+
+我先假设：[一句话说明关键假设。如果缺信息会严重影响判断，先问最多 3 个问题。]
 
 真正问题不是 [表面问题]，而是 [真实问题]。
 
@@ -60,6 +70,7 @@ Good questions:
 - 客户原话是什么？最好贴出最关键的 2-3 句。
 - 方案发出前，有没有约定明确的下一步？
 - 竞争对手便宜在哪里，是价格低、关系强，还是交付风险看起来更小？
+- 你现在想要的结果是什么：救这单、判断值不值得救、写跟进话术，还是向老板申请资源？
 
 ## Copy-Ready Message Pattern
 
