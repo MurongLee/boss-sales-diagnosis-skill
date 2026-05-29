@@ -2,6 +2,12 @@
 
 Use these when the user needs execution help. Produce a draft, not just advice.
 
+## Drafting Rules
+
+- If the user did not provide industry, product, amount, or customer role, produce a generic but usable draft and say it can be sharpened after those facts are added.
+- Avoid leaving many empty bracketed fields in the final answer. Use neutral business language such as "实施风险", "后续服务", "内部解释", "返工成本", "结果责任", and "长期稳定性" when details are missing.
+- Keep customer-facing drafts natural. They should sound like a thoughtful business person, not a template.
+
 ## One-Page Value/Risk Note
 
 Use after price objection, proposal silence, competitor comparison, or internal pushback.
@@ -10,23 +16,24 @@ Use after price objection, proposal silence, competitor comparison, or internal 
 **这次选择真正要判断的不是价格，而是结果风险**
 
 **客户目标**
-[客户要解决的业务问题，用客户语言写]
+把这件事稳定做成，减少实施中的返工、沟通和后续责任风险。
 
 **低价方案可能省下的部分**
-- [显性节省 1]
-- [显性节省 2]
+- 前期采购成本
+- 短期预算压力
 
 **低价方案可能增加的隐性成本**
-- [返工 / 延期 / 协调 / 售后 / 内部解释风险]
-- [一旦出问题，谁承担责任]
+- 返工、延期和反复协调的成本
+- 售后响应和责任边界不清带来的风险
+- 内部解释压力：一旦结果不好，需要说明为什么当初只按低价选择
 
 **我们方案贵出的部分对应什么保障**
-- [保障 1：对应客户哪个风险]
-- [保障 2：对应客户哪个风险]
-- [保障 3：对应客户哪个长期收益]
+- 更清楚的实施路径，降低过程失控风险
+- 更明确的服务和责任边界，减少后续扯皮
+- 更稳定的结果交付，让内部决策更容易解释
 
 **建议的判断方式**
-如果只看采购价，[低价方案] 更便宜；如果看 [业务结果/交付风险/长期成本]，建议重点比较 [关键差异]。
+如果只看采购价，低价方案更便宜；如果看业务结果、交付风险和长期成本，建议重点比较：谁更能把结果稳定交付出来，谁在出问题时更愿意承担责任。
 ```
 
 ## Reframe Follow-Up Message
@@ -36,7 +43,7 @@ Use after one week of silence, weak reply, or vague "too expensive".
 ```text
 [称呼]，我复盘了一下上次方案，感觉我可能还没有把这次选择背后的业务判断讲透。
 
-如果只看价格，我们确实不是最低的。关键是这次项目后面还有 [实施/稳定性/后续服务/内部解释/结果责任] 的问题。
+如果只看价格，我们确实不是最低的。关键是这次项目后面还有实施稳定性、后续服务、内部解释和结果责任的问题。
 
 我整理了一页对比，不重复方案内容，只把“贵出的部分对应什么风险保障、低价方案可能省下什么又增加什么”讲清楚，方便你内部判断。
 
@@ -70,25 +77,25 @@ Use when the seller needs internal resources, discount approval, owner involveme
 
 ```markdown
 **机会判断**
-[Invest / Repair / Nurture / Stop]
+[Invest / Repair / Nurture / Stop，并用一句话解释]
 
 **为什么值得/不值得继续投入**
-[金额、毛利、战略价值、复购、标杆、风险]
+[从金额、毛利、战略价值、复购、标杆、交付风险里挑最关键的 2-3 个写]
 
 **当前真实阻碍**
-表面是 [表面问题]，实际是 [真实阻碍]。
+表面是价格/沉默/竞品，实际是价值解释、决策链或机会质量问题。
 
 **我建议的动作**
-[一个具体动作，不超过两步]
+只做一次高质量修复：补一页价值/风险对比，并约一次 15 分钟对齐。
 
 **需要公司支持**
-[资源 / 折扣 / 老板出面 / 技术支持 / 交付评估]
+需要支持时只申请一种关键资源：折扣、老板出面、技术支持或交付评估，不要一次要太多。
 
 **交换条件**
-如果给出支持，需要客户同步给出 [决策人会议/明确时间表/试点承诺/付款条件/范围确认]。
+如果给出支持，需要客户同步给出决策人会议、明确时间表、试点承诺、付款条件或范围确认中的至少一项。
 
 **退出条件**
-如果 [条件] 没发生，本单降为 Nurture/Stop。
+如果客户仍不反馈、只继续压价，或不给出任何下一步承诺，本单降为 Nurture/Stop。
 ```
 
 ## Nurture Message
@@ -98,7 +105,7 @@ Use when pushing now would lower posture but the customer may have future value.
 ```text
 [称呼]，明白你们这边现在可能还没到继续推进的节点。
 
-我这边先不追着你做决定。后面如果你们在 [相关业务场景] 上遇到 [典型风险/变化]，我再把有价值的判断同步给你。
+我这边先不追着你做决定。后面如果你们在实施、服务稳定性或内部评估上遇到新的变化，我再把有价值的判断同步给你。
 
 这次方案我也会保留一个简化版，等你们内部条件成熟时，我们再基于新情况重新看。
 ```
@@ -110,12 +117,11 @@ Intent: Stop chasing while preserving trust and future access.
 Use when the opportunity is bad fit or one-sided.
 
 ```text
-[称呼]，我认真评估了一下，以你们目前对 [价格/周期/范围/责任] 的要求，我们可能不是最合适的选择。
+[称呼]，我认真评估了一下，以你们目前对价格、周期、范围和责任边界的要求，我们可能不是最合适的选择。
 
 硬推进对你们不一定是好事，对我们后续交付也会有风险。
 
-如果后面你们的判断标准从 [当前标准] 转到 [更适合我们的标准]，我们再重新沟通。现在我建议你们先按更匹配当前条件的方案推进。
+如果后面你们的判断标准从单纯压低前期成本，转到更重视交付稳定性、服务责任和长期成本，我们再重新沟通。现在我建议你们先按更匹配当前条件的方案推进。
 ```
 
 Intent: Exit cleanly without burning the relationship.
-
