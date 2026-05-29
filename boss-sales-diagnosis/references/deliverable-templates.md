@@ -7,6 +7,7 @@ Use these when the user needs execution help. Produce a draft, not just advice.
 - If the user did not provide industry, product, amount, or customer role, produce a generic but usable draft and say it can be sharpened after those facts are added.
 - Avoid leaving many empty bracketed fields in the final answer. Use neutral business language such as "实施风险", "后续服务", "内部解释", "返工成本", "结果责任", and "长期稳定性" when details are missing.
 - Keep customer-facing drafts natural. They should sound like a thoughtful business person, not a template.
+- For SMS, WeChat, email, proposal notes, and customer-facing text, follow `murong-style-guide.md`: restrained, concrete, equal-posture, no salesy enthusiasm.
 
 ## One-Page Value/Risk Note
 
